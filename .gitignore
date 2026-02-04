@@ -42,3 +42,6 @@ logs
 *.mp4
 *.flac
 *.ogg
+
+__pycache__/
+*.pyc
